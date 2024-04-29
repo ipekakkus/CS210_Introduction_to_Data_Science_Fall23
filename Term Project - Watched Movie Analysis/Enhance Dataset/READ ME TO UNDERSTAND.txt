@@ -1,0 +1,7 @@
+There are bunch of files.
+Let me explain you briefly.
+
+The main data exported from my Letterboxd account is watched.scv. I processed this data by using enhance_dataset.py
+At the end the enhanced data is written to the extracted1.xlsx
+
+Repeated the similar process for list.csv to make sure that user can search for some movies' correlation with my movie taste. This file is processed with List_to_be_compared.py and the outputs are directed to the list_to_be_compared_xlsx.
